@@ -16,7 +16,6 @@ import vtiger_POM.CreateOrg_page;
 import vtiger_POM.Home_page;
 import vtiger_POM.Organization_page;
 
-
 public class CreateOrgWithMandatoryFields_test extends BaseClass
 {
 	@Test
