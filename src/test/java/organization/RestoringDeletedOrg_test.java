@@ -67,7 +67,6 @@ public class RestoringDeletedOrg_test
 		//logout
 		vpom.signOut(driver);
 		
-
 	}
 
 }
